@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jlesdev.github.io/VortexGutters/sitemap.xml
